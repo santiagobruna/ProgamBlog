@@ -5,6 +5,7 @@ Bem-vindo ao ProgamBlog, um site de programação para te ajudar a se tornar um 
 Este site foi criado com o objetivo de fornecer informações sobre programação.
 
 ## Conheça o projeto
+![ProgamBlog](https://github.com/santiagobruna/ProgamBlog/assets/99828311/563cca2b-8aed-43b2-9ea5-8457f3a9d3a8)
 
 
 ### Tecnologias utilizadas
