@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/%7BProgamBlog%7D/static/css/main.4eca6202.css",
-    "main.js": "/%7BProgamBlog%7D/static/js/main.dc80e859.js",
-    "static/js/787.774594b4.chunk.js": "/%7BProgamBlog%7D/static/js/787.774594b4.chunk.js",
-    "index.html": "/%7BProgamBlog%7D/index.html",
-    "static/media/Pesquisa.svg": "/%7BProgamBlog%7D/static/media/Pesquisa.8d33e2c9025bd8b232c4.svg",
-    "main.4eca6202.css.map": "/%7BProgamBlog%7D/static/css/main.4eca6202.css.map",
-    "main.dc80e859.js.map": "/%7BProgamBlog%7D/static/js/main.dc80e859.js.map",
-    "787.774594b4.chunk.js.map": "/%7BProgamBlog%7D/static/js/787.774594b4.chunk.js.map"
+    "main.css": "/ProgamBlog/static/css/main.1c6e0285.css",
+    "main.js": "/ProgamBlog/static/js/main.2767b105.js",
+    "static/js/787.774594b4.chunk.js": "/ProgamBlog/static/js/787.774594b4.chunk.js",
+    "index.html": "/ProgamBlog/index.html",
+    "static/media/Pesquisa.svg": "/ProgamBlog/static/media/Pesquisa.8d33e2c9025bd8b232c4.svg",
+    "main.1c6e0285.css.map": "/ProgamBlog/static/css/main.1c6e0285.css.map",
+    "main.2767b105.js.map": "/ProgamBlog/static/js/main.2767b105.js.map",
+    "787.774594b4.chunk.js.map": "/ProgamBlog/static/js/787.774594b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4eca6202.css",
-    "static/js/main.dc80e859.js"
+    "static/css/main.1c6e0285.css",
+    "static/js/main.2767b105.js"
   ]
 }
