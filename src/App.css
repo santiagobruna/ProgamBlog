@@ -1,0 +1,27 @@
+input {
+  width: 75%;
+  color: #FFF;
+  height: 40px;
+  background-color: rgb(34, 34, 34);
+  border: 1px solid #43766c;
+  padding-left: 20px;
+}
+
+input::placeholder {
+  background-image: url("/public/Pesquisa.svg");
+  background-repeat: no-repeat;
+  padding-left: 30px;
+}
+
+.error {
+  text-align: center;
+  color: rgb(232, 54, 54);
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+@media (max-width: 900px){
+  input { 
+    width: 90%;
+  }
+}

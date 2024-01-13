@@ -1,0 +1,12 @@
+.container-blog {
+  max-width: 800px;
+  margin: 1rem auto;
+  padding: 1rem;
+}
+h1 {
+  color: #76453b;
+}
+span {
+  color: #fff;
+}
+
