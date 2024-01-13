@@ -15,4 +15,4 @@ Este site foi criado com o objetivo de fornecer informações sobre programaçã
  Nosso site é projetado para se adaptar a todos os dispositivos, proporcionando uma experiência consistente, independentemente de você estar usando um computador, tablet ou smartphone.
 
 ### Link do projeto
-Clique aqui para visualizar o projeto <https://santiagobruna.github.io/ProgamBlog//>
+Clique aqui para visualizar o projeto <https://santiagobruna.github.io/ProgamBlog/>
